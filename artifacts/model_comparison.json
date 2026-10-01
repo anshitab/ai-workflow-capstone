@@ -1,0 +1,17 @@
+{
+  "results": {
+    "linear_regression": {
+      "mae": 13131.910910433508,
+      "rmse": 18227.622929626436
+    },
+    "random_forest": {
+      "mae": 14650.194267177409,
+      "rmse": 20058.148636427493
+    },
+    "gradient_boosting": {
+      "mae": 14159.1109020441,
+      "rmse": 20445.975054616738
+    }
+  },
+  "selected_model": "linear_regression"
+}
